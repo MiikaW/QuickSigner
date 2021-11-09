@@ -1,4 +1,4 @@
 @echo off
 title Jar validator
-jarsigner -verify -verbose -certs %~dpnx1
+jarsigner -verify -verbose -certs %1 & :: Original: %~dpnx1
 pause
