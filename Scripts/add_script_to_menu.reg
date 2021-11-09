@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Run script]
+@="Verify signature with jarsigner"
+
+[HKEY_CLASSES_ROOT\*\shell\Run script\command]
+@="\"C:\\Scripts\\jar_verify.bat\" \"%1\""
