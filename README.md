@@ -1,4 +1,4 @@
-# QuickSigner
+# quick-signer
 
 A small and extremely simple tool to quickly verify .apk and .aab files.
 The contained .reg file will automatically (when run) add the bat script to your right-click context menu.
