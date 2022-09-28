@@ -8,6 +8,9 @@ The contained .reg file will automatically (when run) add the bat script to your
 
 
 
+## Prerequisites
+- [Android Studio](https://developer.android.com/studio) (+ jarsigner)
+
 
 ## Usage
 1. To use this tool, drag the Scripts folder to C:\ ( full filepath C:\Scripts).
